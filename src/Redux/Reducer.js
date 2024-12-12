@@ -1,5 +1,5 @@
 import { ADD_SERVER, DELETE_SERVER, FAIL_REQUEST, GET_SERVER_LIST, GET_SERVER_OBJ, MAKE_REQUEST, UPDATE_SERVER } from "./ActionType"
-
+ 
 const initialstate = {
     loading: true,
     serverlist: [],

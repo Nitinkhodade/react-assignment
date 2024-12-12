@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { FetchServerObj, FunctionUpdateServer } from "../Redux/Action";
-
+ 
 const Updateserver = () => {
     const [id, idchange] = useState(0);
     const [title, titlechange] = useState('');

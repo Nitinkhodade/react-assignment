@@ -2,7 +2,7 @@ import axios from "axios"
 import { toast } from "react-toastify"
 import Updateserver from "../Component/Updateserver"
 import { ADD_SERVER, DELETE_SERVER, FAIL_REQUEST, GET_SERVER_LIST, GET_SERVER_OBJ, MAKE_REQUEST, UPDATE_SERVER } from "./ActionType"
-
+ 
 export const makeRequest=()=>{
     return{
         type:MAKE_REQUEST
