@@ -1,0 +1,19 @@
+{
+    "streams": [
+    {
+    "id": 1,
+    "title": "Hello World",
+    "description": "Greetings Martians"
+    },
+    {
+    "id": 2,
+    "title": "New Movie",
+    "description": "Some Set in Mumbai"
+    },
+    {
+    "id": 3,
+    "title": "Nitin",
+    "description": "Software Developer"
+    }
+    ]
+    }
